@@ -1,3 +1,7 @@
+# REACT tutorial repository
+Storage for a Udemy tutorial I'm working my way through.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
